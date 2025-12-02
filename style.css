@@ -5,7 +5,7 @@ body {
 header {
     font-size: x-large;
     color: white;
-    background-color: #00bcd4;
+    background-color: cyan;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -29,24 +29,24 @@ img {
 margin: 5px;
 padding: 10px;
 border-radius: 10px;
-border: 1px solid #00bcd4;
+border: 1px solid cyan;
 }
 marquee {
-    background-color: #00bcd4;
+    background-color:cyan;
     color: white;
     padding: 5px;
 }
 button {
     color: white;
-    background-color: #00bcd4;
+    background-color: cyan;
     padding: 10px;
     border-color: white;
     border-radius: 10px;
 }
 button:hover {
-    color: #00bcd4;
+    color: cyan;
     background-color: white;
-    border-color: #00bcd4;
+    border-color: cyan;
 }
 footer {
     background-color: black;
@@ -75,4 +75,5 @@ footer {
         text {color:#000;}
 .container img {
     width: 30px;
+
 }
