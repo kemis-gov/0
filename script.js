@@ -79,5 +79,6 @@ if(a<30){
 }
 }
 function redir(){
-    window.location.href="https://papasmurf-tv.github.io/0";
+    window.location.href="https://windows12os.github.io/0";
+
 }
